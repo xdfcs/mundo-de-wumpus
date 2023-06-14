@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/mundo-de-wumpus/static/css/main.b551f4ea.css",
+    "main.js": "/mundo-de-wumpus/static/js/main.4ea9095f.js",
+    "static/media/treasure.svg": "/mundo-de-wumpus/static/media/treasure.2524d280c35df4185aaed3b9349ae9bd.svg",
+    "static/media/stench.svg": "/mundo-de-wumpus/static/media/stench.b0c55e0f577f41acabe12d0f2a47c7aa.svg",
+    "static/media/adventurer.svg": "/mundo-de-wumpus/static/media/adventurer.6cb8bd0971538f73fe3ddc1dcde6fbe0.svg",
+    "static/media/wind.svg": "/mundo-de-wumpus/static/media/wind.35224fd62549d7a965e557058a66656d.svg",
+    "static/media/monster.svg": "/mundo-de-wumpus/static/media/monster.b06fd699dd5651df8420a974518296c0.svg",
+    "index.html": "/mundo-de-wumpus/index.html",
+    "static/media/hole.svg": "/mundo-de-wumpus/static/media/hole.e9bd5083955a555e0f9fea8da172ac25.svg",
+    "main.b551f4ea.css.map": "/mundo-de-wumpus/static/css/main.b551f4ea.css.map",
+    "main.4ea9095f.js.map": "/mundo-de-wumpus/static/js/main.4ea9095f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b551f4ea.css",
+    "static/js/main.4ea9095f.js"
+  ]
+}
